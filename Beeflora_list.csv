@@ -1,0 +1,31 @@
+Type,SpeciesName,SpeciesNameID,CommonName,ThresholdLog,FloweringTimesFloraBase,1,2,3,4,5,6,7,8,9,10,11,12
+Tree,Banksia attenuata,1800,Candle banksia/Yellow banksia/Slender banksia,0.13,Oct to Dec or Jan to Feb,1,1,0,0,0,0,0,0,0,1,1,1
+Shrub,Banksia menziesii,1834,Firewood banksia/Red banksia/Menzies banksia,0.03,Feb to Oct,0,1,1,1,1,1,1,1,1,1,0,0
+Shrub,Banksia sessilis,32076,Parrot bush,0.2,Apr to Nov,0,0,0,1,1,1,1,1,1,1,1,0
+Shrub,Banksia sphaerocarpa,12111,Fox Banksia,0.25,Jan to Jul,1,1,1,1,1,1,1,0,0,0,0,0
+Shrub,Calothamnus quadrifidus,5426,One-sided bottlebrush,0.36,Jun to Dec,0,0,0,0,0,1,1,1,1,1,1,1
+Tree,Corymbia calophylla,17104,Marri/Red gum/Port gregory gum,0.18,Dec or Jan to May,1,1,1,1,1,0,0,0,0,0,0,1
+Tree,Eucalyptus accedens,5545,Powderbark wandoo,0.15,Dec or Jan to Apr,1,1,1,1,0,0,0,0,0,0,0,1
+Tree,Eucalyptus annulata,5552,Open-fruited mallee,0.28,Jun or Aug-Dec,0,0,0,0,0,1,0,1,1,1,1,1
+Tree,Eucalyptus burracoppinensis,5572,Burracoppin mallee,0.25,Aug to Nov,0,0,0,0,0,0,0,1,1,1,1,0
+Tree,Eucalyptus cornuta,5605,Yate,0.15,Jan to May or Jul to Nov,1,1,1,1,1,0,1,1,1,1,1,0
+Tree,Eucalyptus diversicolor,5625,Karri,0.16,May or Sep to Dec or Jan to Feb,1,1,0,0,1,0,0,0,1,1,1,1
+Tree,Eucalyptus dundasii,5630,Dundas blackbutt,0.18,Feb to May or Jul,0,1,1,1,1,1,1,0,0,0,0,0
+Tree,Eucalyptus flocktoniae,5648,Merrit,0.31,Aug to Dec or Jan to Apr,1,1,1,1,0,0,0,1,1,1,1,1
+Tree,Eucalyptus incrassata,5675,Lerp mallee/Yellow mallee,0.29,Aug to Dec or Jan to Apr,1,1,1,1,0,0,0,1,1,1,1,1
+Tree,Eucalyptus lesouefii,5697,Goldfields blackbutt,0.21,Aug or Oct to Dec or Jan to Feb,1,1,0,0,0,0,0,0,0,1,1,1
+Tree,Eucalyptus longicornis,5701,Red morrel/Morrel,0.4,Dec or Jan to Feb,1,1,0,0,0,0,0,0,0,0,0,1
+Tree,Eucalyptus loxophleba,5702,York gum,0.4,Jul to Dec or Jan to Feb,1,1,0,0,0,0,1,1,1,1,1,1
+Tree,Eucalyptus marginata,5708,Jarrah,0.15,Jun to Dec or Jan,1,0,0,0,0,1,1,1,1,1,1,1
+Tree,Eucalyptus melanoxylon,5711,Black morrel,0.32,Dec or Jan to Mar,1,1,1,1,1,0,0,0,0,0,0,1
+Tree,Eucalyptus occidentalis,5723,Flat-topped yate/Swamp yate,0.23,Sep to Dec or Jan to May,1,1,1,1,1,0,0,0,1,1,1,1
+Tree,Eucalyptus platypus,5749,Moort,0.27,Sep to Dec or Jan to Mar,1,1,1,1,1,0,0,0,1,1,1,1
+Tree,Eucalyptus ravida,12380,Bronze & silver gimlet,0.29,Sep to Dec,0,0,0,0,0,0,0,0,1,1,1,1
+Tree,Eucalyptus redunca,5759,Black marlock/Mallee form of Wandoo,0.16,Jul or Oct to Nov,0,0,0,0,0,0,1,0,0,1,1,0
+Tree,Eucalyptus salubris,5767,Gimlet,0.31,Sep to Oct or Dec or Jan to Mar,1,1,1,0,0,0,0,0,1,1,0,1
+Tree,Eucalyptus stricklandii,5780,Strickland's gum,0.31,Nov to Dec or Jan to Mar,1,1,1,0,0,0,0,0,0,0,1,1
+Tree,Eucalyptus transcontinentalis,5793,Redwood,0.25,Jul to Dec,0,0,0,0,0,0,1,1,1,1,1,1
+Tree,Eucalyptus wandoo,5797,Wandoo/White gum,0.18,Dec or Jan to May,1,1,1,1,1,0,0,0,0,0,0,1
+Shrub,Hakea trifurcata,2214,Two-leaf hakea/White bush/Kangaroo,0.22,Apr to Oct,0,0,0,1,1,1,1,1,1,1,0,0
+Shrub,Leucopogon conostephioides,6374,May flower/White bell,0.21,Mar to Oct,0,0,1,1,1,1,1,1,1,1,0,0
+Shrub,Leucopogon_oldfieldii,6420,Oldfields beard-heath,0.17,Mar to Oct,0,0,1,1,1,1,1,1,1,1,0,0
