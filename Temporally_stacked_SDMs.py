@@ -39,7 +39,7 @@ for each month:
 # ### stake SDMs based on flowering month = 12 rasters with number of species flowering per month
 
 species_loc =  os.path.join(os.getcwd(), "MaxEnt_outputs")
-species = [i for i in os.listdir(species_loc) if i.endswith('_utm3000.tif')]
+species = [i for i in os.listdir(species_loc) if i.endswith('.tif')]
 
 for month in months:
     print(month)
@@ -47,7 +47,7 @@ for month in months:
     for s in species:
         print(s)
         # get the flowering information for that species and month
-        species_temp = s.split('_utm3000.tif')[0]
+        species_temp = s.split('.tif')[0]
         threshold = threshold_dict[int(species_temp)]
         if int(species_temp) in list(df.SpeciesNameID.unique()):
             species_month = str(species_temp) + "_" + str(month)
