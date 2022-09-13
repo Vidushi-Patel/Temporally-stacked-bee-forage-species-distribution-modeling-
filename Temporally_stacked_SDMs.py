@@ -10,10 +10,6 @@ import os
 import pandas as pd
 import rasterio
 import numpy as np
-from osgeo import gdal
-from osgeo import osr
-import subprocess
-
 
 data_file = "Beeflora_list.csv" 
 data_path = os.path.join(os.getcwd(), data_file)
